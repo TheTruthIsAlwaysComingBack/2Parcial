@@ -1,0 +1,19 @@
+<svg width="192" height="148" viewBox="0 0 192 148" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d_3_40)">
+<path d="M24 26C24 22.6863 26.6863 20 30 20H148C159.046 20 168 28.9543 168 40V114C168 117.314 165.314 120 162 120H44C32.9543 120 24 111.046 24 100V26Z" fill="url(#pattern0_3_40)"/>
+</g>
+<defs>
+<filter id="filter0_d_3_40" x="0" y="0" width="192" height="148" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.235294 0 0 0 0 0.254902 0 0 0 0 0.345098 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_40"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_40" result="shape"/>
+</filter>
+<pattern id="pattern0_3_40" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_3_40" transform="matrix(0.000542535 0 0 0.00078125 -0.0208333 0)"/>
+</pattern>
+</defs>
+</svg>
