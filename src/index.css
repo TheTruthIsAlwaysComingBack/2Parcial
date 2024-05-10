@@ -377,3 +377,7 @@ body{
   align-items: center;
   height: 100vh;
 }
+
+#root{  
+  height: 25rem;
+}

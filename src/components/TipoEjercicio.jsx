@@ -7,7 +7,7 @@ const TipoEjercicio = () => {
       <div className="images_container">
         <img
           className="primer_imagen"
-          src="../../Rectangle.svg"
+          src="../../Mask_Group.png"
           alt="imagen del ejercicio"
         />
         <img
@@ -19,7 +19,7 @@ const TipoEjercicio = () => {
 
       <div className="text_container">
         <p className="title">Terapia 2</p>
-        <p className="text_description">Ejercicios perlvicos</p>
+        <p className="text_description">Ejercicios pelvicos</p>
       </div>
     </div>
   );

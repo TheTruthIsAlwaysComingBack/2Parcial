@@ -4,7 +4,7 @@ import TipoEjercicio from "./TipoEjercicio.jsx";
 
 const Card = () => {
   return (
-    <div>
+    <div className="container_p">
       <TipoEjercicio />
     </div>
   );
