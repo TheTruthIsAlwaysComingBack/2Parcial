@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Carde from "./components/Card";
+import Card from "./components/Card";
 
 function App() {
   return (
     <>
-      <Carde />
+      <Card />
     </>
   );
 }
